@@ -24,7 +24,7 @@ Follow these steps to add new equipment listings:
 - The URL will look like:  
   `https://islandpines.roblib.upei.ca/eg/opac/record/1439274`
 
-### 🖼 Image
+### Image
 - Return to the **Edit page** of Robertson Library.
 - Click the **three dots** on the far right of the CKEditor toolbar.
 - Choose **"Insert Images using IMCE File Manager"**.
